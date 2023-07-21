@@ -12,6 +12,7 @@ import 'package:path/path.dart' as Path;
 
 class AuthController extends GetxController {
   FirebaseAuth auth = FirebaseAuth.instance;
+  //TO:DO
 
   var isLoading = false.obs;
 
